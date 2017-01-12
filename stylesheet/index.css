@@ -1,5 +1,5 @@
 body{
-    background-image: url('../images/background.jpg');
+    background-image: url('');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -47,4 +47,9 @@ input[type=text].my-input,input[type=email].my-input{
     background-color: #FFA0AC;
     color: white;
     font-weight: bold;
+}
+
+.btf{
+    position: fixed;
+    bottom: 0;
 }
